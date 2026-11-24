@@ -1,0 +1,4 @@
+[submodule "ELT-Bench"]
+	path = ELT-Bench
+	url = https://github.com/uiuc-kang-lab/ELT-Bench.git
+	branch = elt_bench++
